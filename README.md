@@ -1,4 +1,4 @@
- Matplotlib-3.0-Cookbook
+ # Matplotlib-3.0-Cookbook
 
 
 <a href="https://india.packtpub.com/in/big-data-and-business-intelligence/matplotlib-30-cookbook?utm_source=9781789135718"><img src="https://india.packtpub.com/media/catalog/product/cache/a22c7d190d97ca25f5f1089471ab8502/c/o/cover20-20copy_10788.png" alt="Book Name" height="256px" align="right"></a>
@@ -44,30 +44,30 @@ With the following software and hardware list you can run all code files present
 | Chapter  | Software required                               | OS required                        |
 | -------- | ----------------------------------------------- | -----------------------------------|
 | 1        | Matplotlib 2.2.3, NumPy 1.15.1, pandas 0.23.4   | Windows, Mac OS X, and Linux (Any) |
-| 2        | Matplotib 2.2.3, Numpy 1.15.1, pandas 0.23.4,
-             fix_yahoo_finance 0.0.22                        | Windows, Mac OS X, and Linux (Any) |
-| 3        | Matplotib 2.2.3, Numpy 1.15.1, 
-              pandas 0.23.4, basic_units                     | Windows, Mac OS X, and Linux (Any) |
+| 2        | Matplotib 2.2.3, Numpy 1.15.1, pandas 0.23.4,   |                                    |
+|          |    fix_yahoo_finance 0.0.22                     | Windows, Mac OS X, and Linux (Any) |
+| 3        | Matplotib 2.2.3, Numpy 1.15.1,                  |                                    |
+|          | pandas 0.23.4, basic_units                      | Windows, Mac OS X, and Linux (Any) |
 | 4        | Matplotib 2.2.3, Numpy 1.15.1,pandas 0.23.4     | Windows, Mac OS X, and Linux (Any) |
-| 5        | Matplotib 2.2.3, Numpy 1.15.1, pandas 0.23.4,
-             IPython 6.5.0                                   | Windows, Mac OS X, and Linux (Any) |
-| 6        | Matplotib 2.2.3, Numpy 1.15.1, pandas 0.23.4,
-             IPython 6.5.0, cycler 0.10.0, scipy 1.1.0,
-             geopandas 0.3.0                                 | Windows, Mac OS X, and Linux (Any) |
-| 7        | Matplotib 2.2.3, Numpy 1.15.1, pandas 0.23.4, 
-             scipy 1.1.0                                     | Windows, Mac OS X, and Linux (Any) |
+| 5        | Matplotib 2.2.3, Numpy 1.15.1, pandas 0.23.4,   |                                    |
+|          | IPython 6.5.0                                   | Windows, Mac OS X, and Linux (Any) |
+| 6        | Matplotib 2.2.3, Numpy 1.15.1, pandas 0.23.4,   |                                    |
+|          | IPython 6.5.0, cycler 0.10.0, scipy 1.1.0,      |                                    |
+|          | geopandas 0.3.0                                 | Windows, Mac OS X, and Linux (Any) |
+| 7        | Matplotib 2.2.3, Numpy 1.15.1, pandas 0.23.4,   |                                    |
+|          | scipy 1.1.0                                     | Windows, Mac OS X, and Linux (Any) |
 | 8        | Matplotib 2.2.3, Numpy 1.15.1,pandas 0.23.4     | Windows, Mac OS X, and Linux (Any) |
-| 9        | Matplotib 2.2.3, Numpy 1.15.1, pandas 0.23.4,
-             FFmpeg 4.0.2                                    | Windows, Mac OS X, and Linux (Any) |
-| 10       | Matplotib 2.2.3, Numpy 1.15.1, TKinter 8.6.8,
-             WxPython 4.0.3, Qt5 5.9.2                       | Windows, Mac OS X, and Linux (Any) |
+| 9        | Matplotib 2.2.3, Numpy 1.15.1, pandas 0.23.4,   |                                    |
+|          | FFmpeg 4.0.2                                    | Windows, Mac OS X, and Linux (Any) |
+| 10       | Matplotib 2.2.3, Numpy 1.15.1, TKinter 8.6.8,   |                                    |
+|          | WxPython 4.0.3, Qt5 5.9.2                       | Windows, Mac OS X, and Linux (Any) |
 | 11       | Matplotib 2.2.3, Numpy 1.15.1, pandas 0.23.4    | Windows, Mac OS X, and Linux (Any) |
 | 12       | Matplotib 2.2.3, Numpy 1.15.1, pandas 0.23.4    | Windows, Mac OS X, and Linux (Any) |
 | 13       | Matplotib 2.2.3, Numpy 1.15.1, pandas 0.23.4    | Windows, Mac OS X, and Linux (Any) |
-| 14       | Matplotib 2.2.3,Numpy 1.15.1, cartopy 0.16.0,
-           | geopandas 0.3.0, netCDF4 1.3.1                  | Windows, Mac OS X, and Linux (Any) |
-| 15       | Matplotib 2.2.3, Numpy 1.15.1, pandas 0.23.4,
-|            seaborn 0.9.0, scipy 1.1.0                      | Windows, Mac OS X, and Linux (Any) |
+| 14       | Matplotib 2.2.3,Numpy 1.15.1, cartopy 0.16.0,   |                                    |
+|          | geopandas 0.3.0, netCDF4 1.3.1                  | Windows, Mac OS X, and Linux (Any) |
+| 15       | Matplotib 2.2.3, Numpy 1.15.1, pandas 0.23.4,   |                                    |
+|          |  seaborn 0.9.0, scipy 1.1.0                     | Windows, Mac OS X, and Linux (Any) |
 
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789135718_ColorImages.pdf).
